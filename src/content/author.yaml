@@ -1,0 +1,15 @@
+- id: Ghost
+  avatar: avatars/ghost.png
+  bio: The professional publishing platform
+  twitter: TryGhost
+  facebook: ghost
+  website: https://ghost.org/
+  location: San Francisco
+- id: Deepak
+  avatar: avatars/ghost.png
+  bio: Writing since 2015. At enrzi.in, I write about various aspects of electrical, solar, and wind energy.
+  twitter: DeepakNesss
+  facebook: deepakness
+  website: https://enrzi.in/
+  location: India
+  profile_image: img/alex-knight-326705-unsplash.jpg
