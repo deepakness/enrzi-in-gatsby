@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'enrzi.in - The Energy Blog',
-  description: 'A blog about Electrical, Solar, and Wind Energy',
+  description: 'The Energy Blog - A blog about Electrical, Solar, and Wind Energy',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
