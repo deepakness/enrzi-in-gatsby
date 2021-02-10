@@ -13,7 +13,7 @@ In the first half of 2021, you will see some amazing electric cars coming to Ind
 
 These powerful and sophisticated cars will change the future of electric cars forever.
 
-On that note, Tesla is finally going to be launched in India this June, 2021 - the wait is finally over. You can clearly term 2021 as the years of electric cars.
+On that note, [Tesla](https://enrzi.in/2-tesla-model-3-specs/) is finally going to be launched in India this June, 2021 - the wait is finally over. You can clearly term 2021 as the years of electric cars.
 
 The Union Minister of Road Transport and Highways, Nitin Gadkari confirmed that the Tesla Model 3 will be launching in the first half of 2021 then, soon after Tesla Model S and Model X will also be launched by the end of 2021 or by the beginning of 2022.
 

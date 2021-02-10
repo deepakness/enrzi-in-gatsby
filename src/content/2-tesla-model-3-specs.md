@@ -85,4 +85,4 @@ In 2020, Tesla used the 2.5 version processors because due to coronavirus outbre
 
 That’s it.
 
-Tesla Model 3 is also going to be launched for the very first time in India in mid-2021. Let’s see how everything goes.
+Tesla Model 3 is also going to be launched for the [very first time in India in mid-2021](https://enrzi.in/1-tesla-coming-to-india-in-2021/). Let’s see how everything goes.

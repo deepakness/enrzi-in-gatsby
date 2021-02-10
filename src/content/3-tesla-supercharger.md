@@ -19,7 +19,7 @@ As of Nov 8, 2020, there were 20,000 Superchargers worldwide (Multiple countries
 
 ![Tesla Model S Charging](img/3/Tesla-Model-S-Charging-at-a-Supercharging-Station.jpg)
 
-To charge the Model S (85 kWh), it takes approx. 20 mins to charge up to 50%, 40 mins to 80% and 75 mins to 100%.
+To charge the [Model S](https://enrzi.in/2-tesla-model-3-specs/) (85 kWh), it takes approx. 20 mins to charge up to 50%, 40 mins to 80% and 75 mins to 100%.
 
 ## Are Superchargers Free?
 
