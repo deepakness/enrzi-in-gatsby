@@ -49,12 +49,12 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'enrzi.in',
-  description: 'The Energy Blog',
+  title: 'enrzi.in - The Energy Blog',
+  description: 'A blog about Electrical, Solar, and Wind Energy',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
-  siteUrl: 'https://enrzi.netlify.app',
+  siteUrl: 'https://enrzi.in',
   facebook: '#',
   twitter: '#',
   showSubscribe: false,
