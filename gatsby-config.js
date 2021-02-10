@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'enrzi.in - The Energy Blog',
     description: 'A blog about Electrical, Solar, and Wind Energy.',
-    siteUrl: 'https://enrzi.in', // full path to blog - no ending slash
+    siteUrl: 'https://enrzi.netlify.app', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -54,7 +54,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://enrzi.netlify.com',
+        siteUrl: 'https://enrzi.netlify.app',
       },
     },
     'gatsby-plugin-typescript',

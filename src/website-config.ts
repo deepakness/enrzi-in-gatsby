@@ -54,7 +54,7 @@ const config: WebsiteConfig = {
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
-  siteUrl: 'https://enrzi.in',
+  siteUrl: 'https://enrzi.netlify.app',
   facebook: '#',
   twitter: '#',
   showSubscribe: false,
